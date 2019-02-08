@@ -1,0 +1,23 @@
+	<style>
+		.column{
+			float: left;
+			padding: 10px;
+			height: 250px;
+		}
+		.left{
+			width: 75%;
+		}
+		.right{
+			width: 25%;
+			border-left-style: inset;
+		}
+		.row:after{
+			content:"";
+			display: table;
+			clear: both;
+		}
+		.right p{
+			background-color: blue;
+			padding: 20px;
+		}
+	</style>
