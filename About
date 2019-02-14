@@ -10,11 +10,11 @@
 	<li><a href="Contact Us.html.html">Contact us</a></li>
 </ul>
 </nav>
-	<div class="row">
+<h2>About Gnome</h2>
+<div class="about">
 		<div class="column left" style="background-color:gold;">
-			<h1>182,239,951 Gnome Super Exclusive Members</h1>
-			<div class="column left" style="background-color:red;">
-			<h2>9,784,852,149 Gnome Prime Members</h2>
-			<div class="column left" style="background-color:grey;">
-				<h3>83,901,841,418 Gnome Members</h3>
+		<img src="meme.png">
+		<h3>Lord Gnome IV</h3>
+		<p>The Creator of the Gnome World</p>
 		</div>
+		<div class="column right" style="background-color:gold;">
