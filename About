@@ -1,6 +1,30 @@
 
 <h1> About Gnome</h1>
-
+<style>
+	h2{
+	text-align: center;
+	padding: 12px;
+	width: 90%;
+	float: none;
+	background-color: cadetblue;
+	color: white;
+	family-font: sans-serif;
+	}
+	
+	.column{
+	float: left;
+	padding: 10px;
+	height: 300px;
+	background-color: aliceblue;
+	
+	}
+	.left{
+	width: 30%;
+	}
+	.right{
+	width: 60%;
+	}
+	</style>
 
 
 <ul>
@@ -12,12 +36,12 @@
 </nav>
 <h2>About Gnome</h2>
 <div class="about">
-		<div class="column left" style="background-color:gold;">
+		<div class="column left">
 		<img src="meme.png">
 		<h3>Lord Gnome IV</h3>
 		<p>The Creator of the Gnome World</p>
 		</div>
-		<div class="column right" style="background-color:gold;">
+		<div class="column right">
 		<h3>GNOME</h3>
 		<p>Aka, 地精, in chinese
 		</p>
